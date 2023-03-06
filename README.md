@@ -3,16 +3,14 @@
 <img align="right" alt="GIF" 
      src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="37%" />
 
-👋🏽  My name is Prithee (Pri-thee), and I am a software engineer who is passionate about solving complex problems using data. 
+👋🏽  My name is Partha (Par-tha), and I am a student who is passionate about software engineering. 
 <br />
 
-🎓  I am pursuing a Computer Science degree at the University of Toronto.
+🎓  I am pursuing an Ontario Secondary School Diploma at SATEC @ W.A. Porter Collegiate Institute.
 <br />
 
 
-💻  Currently, I am working at Borealis AI, a research institute at RBC, as a Machine Learning Software Engineer on the ML Infrastructure Team with a focus on MLOps. I've worked at the University Health Network as a Software Engineer, primarly working with Python and SQL to optimize functions and build ETL pipelines. I have previously interned at Manulife as a Software Engineer, where I worked on a Quantitative Investment Strategy
-System in Java and React.js. I have also worked as an Automation Developer, automating data entry by setting up 
-continuous integration and infrastructure provisioning.
+💻  Add stuff about work and shcoola nd projeccty
 
 <br />
 
@@ -24,7 +22,7 @@ continuous integration and infrastructure provisioning.
 ``` dart
 // more about me and my technical skills
 class About extends Me { 
-  const prithee = {  
+  const partha = {  
     "Pronouns" : {"he", "him"},
     "ProgramingLanguages" : { "Python", "C++" },
     "Technologies" : { "Git" } 
