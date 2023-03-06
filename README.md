@@ -36,7 +36,7 @@ class About extends Me {
 ```
 
 ### I would love to chat so please feel free to reach out to me!
-<a href="[https://www.linkedin.com/in/partharoyballave/](https://www.linkedin.com/in/partharoyballave/)" >![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/partharoyballave/" >![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:partha.royballave@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 
 
