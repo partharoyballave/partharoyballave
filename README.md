@@ -27,10 +27,9 @@ class About extends Me {
     "ProgramingLanguages" : { "Python", "C++" },
     "Technologies" : { "Git" } 
     "OtherLanguages" : { "Latex", "Markdown" },
-    "Database" : { "MongoDB", "SQLite" },
-    "Editors" : { "VScode", "PyCharm", "Arduino IDE" },
+    "Editors" : { "VScode","Visual Studio" "PyCharm", "Arduino IDE" },
     "Platforms" : { "Linux", "Windows" },
-    "Hobbies" : { "Guitar", "Exercise", "Music", "Baking", "Sleeping" }
+    "Hobbies" : { "Guitar", "Exercise", "Music", "Cooking", "Sleeping" }
   };
 }
 ```
