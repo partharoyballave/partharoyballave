@@ -10,7 +10,7 @@
 <br />
 
 
-💻 At the moment, I have experimented with many different programming languages but I have working knowledge and experience mostly with python and C++. I have taken the computer science and computer engineering classes at my school and I am apart of the CETA Robotics club. I also have done other online coding courses but I'm looking to gain more applied experience. I previously worked as a camp counsellor during the summer and so I'm quite comfortable collaborating with pretty much anybody, whether they're 5 years old or 50. My goal for the future is to study computer science or software engineering at university. 
+💻 At the moment, I have experimented with many different programming languages but I have working knowledge and experience mostly with Python and C++. I have taken the computer science and computer engineering classes at my school and I am apart of the CETA Robotics club. I also have done other online coding courses but I'm looking to gain more applied experience. I previously worked as a camp counsellor during the summer and so I'm quite comfortable collaborating with anybody, whether they're 5 years old or 50. My goal for the future is to study computer science or software engineering at university. 
 
 <br />
 
@@ -27,7 +27,7 @@ class About extends Me {
     "ProgramingLanguages" : { "Python", "C++" },
     "Technologies" : { "Git" } 
     "OtherLanguages" : { "Latex", "Markdown" },
-    "Editors" : { "VScode","Visual Studio" "PyCharm", "Arduino IDE" },
+    "Editors" : { "Visual Studio Code" "PyCharm", "Arduino IDE" },
     "Platforms" : { "Linux", "Windows" },
     "Hobbies" : { "Guitar", "Exercise", "Music", "Cooking", "Sleeping" }
   };
