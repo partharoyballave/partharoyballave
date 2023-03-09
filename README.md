@@ -3,14 +3,14 @@
 <img align="right" alt="GIF" 
      src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="37%" />
 
-👋🏽  My name is Partha (Par-tha), and I am a student who is passionate about software engineering. 
+👋🏽  My name is Partha (Par-tha), and I am a student who is passionate about software engineering and loves a challenge.  
 <br />
 
 🎓  I am pursuing an Ontario Secondary School Diploma at SATEC @ W.A. Porter Collegiate Institute.
 <br />
 
 
-💻  Add stuff about work and shcoola nd projeccty
+💻 At the moment, I have experimented with many different programming languages but I have working knoweldge and experience mostly with python and C++. I have taken the computer science and computer engineering classes at my school and I am apart of the CETA Robotics club. I also have done other online coding courses but I'm looking to gain more applied experience. I previously worked as a camp counsellor during the summer and so I'm quite comfortable collaborating with prety much anybody, whether they're 5 years old or 50. My goal for the future is to study computer science or software engineering at university. 
 
 <br />
 
