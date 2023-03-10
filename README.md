@@ -27,7 +27,7 @@ class About extends Me {
     "ProgramingLanguages" : { "Python", "C++" },
     "Technologies" : { "Git" } 
     "OtherLanguages" : { "Latex", "Markdown" },
-    "Editors" : { "Visual Studio Code" "PyCharm", "Arduino IDE" },
+    "Editors" : { "Visual Studio Code", "PyCharm", "Arduino IDE" },
     "Platforms" : { "Linux", "Windows" },
     "Hobbies" : { "Guitar", "Exercise", "Music", "Cooking", "Sleeping" }
   };
